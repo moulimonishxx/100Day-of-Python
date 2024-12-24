@@ -73,7 +73,7 @@ Text-to-Speech-Converter/
 
 ## Example Screenshots
 
-![Text-to-Speech Converter UI](https://media.licdn.com/dms/image/v2/D5622AQGrJmB_UUx_sA/feedshare-shrink_800/B56ZPuEBNFH0Ag-/0/1734865852775?e=1738195200&v=beta&t=_q8SacE1G7ypqjxjJIrXzDzc7Ap-B1rTT6Q_xblEYz8)  
+![Text-to-Speech Converter UI](https://media.licdn.com/dms/image/v2/D5622AQGLFhElY1gkcQ/feedshare-shrink_800/B56ZP3QXWsHIAg-/0/1735020083538?e=1738195200&v=beta&t=ZSvzEnBmYrSBYwlbw4uYOX8Z3dokvA-i4IH0Om2lAEc)  
 *Sample screenshot of the application*
 
 ---
